@@ -62,5 +62,7 @@ public class TimeZoneTranslatorTest {
 		assertEquals(bostonFirstOomLecture.getStartDate().toString(), expectedBostonTime.getStartDate().toString());
 		assertEquals(bostonFirstOomLecture.getEndDate().toString(), expectedBostonTime.getEndDate().toString());
 	}
+	
+	
 
 }
